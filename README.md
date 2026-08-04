@@ -1,5 +1,4 @@
-# GNS Clock
-
+# Desktop Clock Widget
 **Powered by Tech House** | Version 3.0
 
 A beautiful desktop clock widget for Windows with a Fliqlo-style flip-clock screensaver and a study stopwatch — all in one lightweight app.
